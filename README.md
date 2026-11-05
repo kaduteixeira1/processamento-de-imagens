@@ -11,3 +11,4 @@ As fotos usadas estão em `fotos/`.
 
 Bibliotecas: `numpy`, `matplotlib`, `scikit-image`, `opencv-python`.
 "# processamento-de-imagens" 
+"# processamento-de-imagens" 
